@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm passionate about coding, building projects, an
 
 ### 📫 How to Reach Me
 
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [YourEmail@example.com](mailto:YourEmail@example.com)
+- [ansel09@163.com](mailto:ansel09@163.com)
+- [bilibili home page ](https://space.bilibili.com/286896507?spm_id_from=333.1007.0.0)
 
 Thanks for visiting my profile! 😄
