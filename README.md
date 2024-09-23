@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about coding, building projects, and constantly learning new things. Here's a bit about me:
 
 ### 🔭 Current Projects:
-- **[QBlueprint Project](https://github.com/IgnorAnsel/QBlueprint)**: A visual scripting tool based on Qt.
+- **[QBlueprint Project](https://github.com/IgnorAnsel/QBlueprint)**: A visual blueprint tool based on Qt.
 - **[URDF Editor](https://github.com/IgnorAnsel/urdf_editor)**: A powerful editor for URDF (Unified Robot Description Format) models, simplifying the creation and editing of robot descriptions.
 - **[ROS2 Manager](https://github.com/IgnorAnsel/ros2manager)**: A tool to manage and discover ROS2 packages and launch files, streamlining the workflow for ROS2 developers.
 
@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm passionate about coding, building projects, an
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+  ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
 
 ---
 
