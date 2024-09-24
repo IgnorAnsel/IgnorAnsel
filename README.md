@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about coding, building projects, an
 
 - **[QBlueprint](https://github.com/IgnorAnsel/QBlueprint)**: A customizable and flexible blueprint editor built with Qt.
 - **[URDF Editor](https://github.com/IgnorAnsel/urdf_editor)**: A user-friendly tool for working with URDF models, aiding in robot design and simulation.
-- **[ROS2 Manager](https://github.com/IgnorAnsel/ros2_manager)**: Simplifies ROS2 development by providing a package and launch file manager for ROS2 developers.
+- **[ROS2 Manager](https://github.com/IgnorAnsel/ros2manager)**: Simplifies ROS2 development by providing a package and launch file manager for ROS2 developers.
 
 ---
 
