@@ -23,6 +23,13 @@ Welcome to my GitHub profile! I'm passionate about coding, building projects, an
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
   ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
 
+- **SLAM & 3D Reconstruction**:  
+  ![ORB-SLAM3](https://img.shields.io/badge/-ORB--SLAM3-FF6F00?style=flat&logo=open-source-initiative&logoColor=white)
+  ![Open3D](https://img.shields.io/badge/-Open3D-0088CC?style=flat&logo=python&logoColor=white)
+  ![PCL](https://img.shields.io/badge/-PCL-FF6D00?style=flat&logo=point-cloud-library&logoColor=white)
+  ![COLMAP](https://img.shields.io/badge/-COLMAP-000000?style=flat&logo=c&logoColor=white)
+  ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
+  ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ---
 
 ### 🚀 Highlighted Projects
@@ -40,10 +47,6 @@ Welcome to my GitHub profile! I'm passionate about coding, building projects, an
 
 ---
 
-### 🌍 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/IgnorAnsel/count.svg)
----
 
 ### 📫 How to Reach Me
 
