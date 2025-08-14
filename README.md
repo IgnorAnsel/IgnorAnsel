@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about coding, building projects, and constantly learning new things. Here's a bit about me:
 
 ### 🔭 Current Projects:
+- **[3DRS](https://github.com/IgnorAnsel/3DRS)**: 3D reconstruction software.
 - **[QBlueprint Project](https://github.com/IgnorAnsel/QBlueprint)**: A visual blueprint tool based on Qt.
 - **[URDF Editor](https://github.com/IgnorAnsel/urdf_editor)**: A powerful editor for URDF (Unified Robot Description Format) models, simplifying the creation and editing of robot descriptions.
 - **[ROS2 Manager](https://github.com/IgnorAnsel/ros2manager)**: A tool to manage and discover ROS2 packages and launch files, streamlining the workflow for ROS2 developers.
