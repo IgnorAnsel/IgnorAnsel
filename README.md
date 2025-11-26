@@ -45,7 +45,7 @@
 
 ### 📊 GitHub Stats
 
-![Metrics](https://github.com/IgnorAnsel/IgnorAnsel/releases/download/metrics/github-metrics.svg)
+![Metrics](https://github.com/IgnorAnsel/IgnorAnsel/github-metrics.svg)
 
 ---
 
