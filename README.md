@@ -33,18 +33,6 @@
 
 </div>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[QBlueprint](https://github.com/IgnorAnsel/QBlueprint)** | A customizable and flexible blueprint editor (Node Editor). | `Qt` `C++` |
-| **[URDF Editor](https://github.com/IgnorAnsel/urdf_editor)** | A powerful visual editor for URDF robot description files. | `ROS2` `Qt` |
-| **[3DRS](https://github.com/IgnorAnsel/3DRS)** | 3D reconstruction software leveraging modern SLAM techniques. | `SLAM` `Open3D` |
-| **[ROS2 Manager](https://github.com/IgnorAnsel/ros2manager)** | A GUI tool to manage, discover packages, and launch files efficiently. | `ROS2` `Python` |
-
----
 
 
 ### 🚀 Highlighted Projects
@@ -61,11 +49,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnorAnsel&layout=compact&theme=transparent)
 
 ---
-
-
-### 📫 How to Reach Me
-
-- [ansel09@163.com](mailto:ansel09@163.com)
-- [bilibili home page ](https://space.bilibili.com/286896507?spm_id_from=333.1007.0.0)
 
 Thanks for visiting my profile! 😄
