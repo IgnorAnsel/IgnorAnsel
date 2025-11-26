@@ -45,8 +45,7 @@
 
 ### 📊 GitHub Stats
 
-![IgnorAnsel's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnorAnsel&show_icons=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnorAnsel&layout=compact&theme=transparent)
+![Metrics](https://github.com/IgnorAnsel/IgnorAnsel/releases/download/metrics/github-metrics.svg)
 
 ---
 
