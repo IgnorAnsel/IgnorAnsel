@@ -1,0 +1,31 @@
+name: Metrics
+on:
+  # 每天北京时间 08:00 自动更新
+  schedule: [{cron: "0 0 * * *"}]
+  # 也可以手动触发
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # 这里是核心配置，我帮你配了一套适合 C++/ROS 开发者的样式
+          user: IgnorAnsel
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          
+          # 语言分析
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: "github"
+          plugin_languages_threshold: 0%
