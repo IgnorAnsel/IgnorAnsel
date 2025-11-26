@@ -1,37 +1,51 @@
-## Hi there 👋, I'm IgnorAnsel!
+<div align="center">
 
-Welcome to my GitHub profile! I'm passionate about coding, building projects, and constantly learning new things. Here's a bit about me:
+# Hi there, I'm IgnorAnsel! 👋
 
-### 🔭 Current Projects:
-- **[3DRS](https://github.com/IgnorAnsel/3DRS)**: 3D reconstruction software.
-- **[QBlueprint Project](https://github.com/IgnorAnsel/QBlueprint)**: A visual blueprint tool based on Qt.
-- **[URDF Editor](https://github.com/IgnorAnsel/urdf_editor)**: A powerful editor for URDF (Unified Robot Description Format) models, simplifying the creation and editing of robot descriptions.
-- **[ROS2 Manager](https://github.com/IgnorAnsel/ros2manager)**: A tool to manage and discover ROS2 packages and launch files, streamlining the workflow for ROS2 developers.
+<!-- 打字机特效：自动轮播你的身份 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F709&center=true&vCenter=true&width=435&lines=ROS2+Developer;C%2B%2B+%26+Qt+Enthusiast;SLAM+%26+3D+Reconstruction;Open+Source+Contributor" alt="Typing SVG" />
+</a>
+
+<p>
+  <em>Passionate about robotics, 3D reconstruction, and building efficient tools.</em>
+</p>
+
+<a href="mailto:ansel09@163.com">
+  <img src="https://img.shields.io/badge/Email-ansel09%40163.com-red?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://space.bilibili.com/286896507">
+  <img src="https://img.shields.io/badge/Bilibili-IgnorAnsel-00A1D6?style=flat-square&logo=bilibili&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### 🌱 Currently Exploring:
-- **Languages & Frameworks**:  
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+### 🛠️ Tech Stack
 
-- **Tools & Platforms**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-  ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
+<div align="center">
 
-- **SLAM & 3D Reconstruction**:  
-  ![ORB-SLAM3](https://img.shields.io/badge/-ORB--SLAM3-FF6F00?style=flat&logo=open-source-initiative&logoColor=white)
-  ![Open3D](https://img.shields.io/badge/-Open3D-0088CC?style=flat&logo=python&logoColor=white)
-  ![PCL](https://img.shields.io/badge/-PCL-FF6D00?style=flat&logo=point-cloud-library&logoColor=white)
-  ![COLMAP](https://img.shields.io/badge/-COLMAP-000000?style=flat&logo=c&logoColor=white)
-  ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
-  ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+| **Languages** | **Frameworks & Tools** | **Robotics & SLAM** |
+|:---:|:---:|:---:|
+| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) <br> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white) <br> ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white) <br> ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) |
+| ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) <br> ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Open3D](https://img.shields.io/badge/-Open3D-0088CC?style=flat-square&logo=python&logoColor=white) <br> ![PCL](https://img.shields.io/badge/-PCL-FF6D00?style=flat-square&logo=point-cloud-library&logoColor=white) |
+
+</div>
+
 ---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[QBlueprint](https://github.com/IgnorAnsel/QBlueprint)** | A customizable and flexible blueprint editor (Node Editor). | `Qt` `C++` |
+| **[URDF Editor](https://github.com/IgnorAnsel/urdf_editor)** | A powerful visual editor for URDF robot description files. | `ROS2` `Qt` |
+| **[3DRS](https://github.com/IgnorAnsel/3DRS)** | 3D reconstruction software leveraging modern SLAM techniques. | `SLAM` `Open3D` |
+| **[ROS2 Manager](https://github.com/IgnorAnsel/ros2manager)** | A GUI tool to manage, discover packages, and launch files efficiently. | `ROS2` `Python` |
+
+---
+
 
 ### 🚀 Highlighted Projects
 
